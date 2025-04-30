@@ -39,5 +39,5 @@
 
 ## 📊 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduzeu&layout=compact&langs_count=10&theme=tokyonight)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduzeu&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=notebook-repo1,notebook-repo2)
 
