@@ -1,11 +1,19 @@
+<div align="center">
+
 ## Welcome to my GitHub :)
+</div>
 
 ### My name is Eduardo Hernandez and I am a senior at Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with temas to achieving success. During my college journey I have worked as a Software Engineer, Research Assistant, and Teaching Assistant. 
 
+<div align="center">
 
 # 🔧 Tech Stack
+</div>
+
+<div align="center">
 
 ## Programming Languages
+</div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,8 +28,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
+<div align="center">
 
 ## Frameworks/Technologies
+</div>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -37,7 +47,10 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+<div align="center">
+
 ## 📊 GitHub Stats
+</div>
 
 <div align="center">
 
