@@ -37,3 +37,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduzeu&layout=compact&langs_count=10&theme=tokyonight)
+
