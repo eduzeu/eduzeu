@@ -3,7 +3,7 @@
 ## Welcome to my GitHub :)
 </div>
 
-### My name is Eduardo Hernandez and I am CS 25' grad from Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with temas to achieving success. During my journey I have worked as a Software Engineer, Research Assistant, professional Tutor and Teaching Assistant. 
+### My name is Eduardo Hernandez and I am CS 25' grad from Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with teams to achieving success. During my journey I have worked as a Software Engineer, Research Assistant, professional Tutor and Teaching Assistant. 
 
 <div align="center">
 
@@ -30,23 +30,24 @@
 
 <div align="center">
 
-## Frameworks/Technologies
 </div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+## 🧠 Skills Snapshot
 
+**Frontend**
+- React, Next.js, TypeScript, JavaScript, HTML, CSS, styled-components
+
+**Backend**
+- Node.js, Express.js, FastAPI, Django, Flask, REST APIs, GraphQL
+
+**Databases**
+- PostgreSQL, MongoDB, Redis, SQL
+
+**Data / ML**
+- Python, pandas, NumPy, scikit-learn, R, data analysis, machine learning pipelines
+
+**DevOps / Tools**
+- AWS (EC2, S3), Linux, Git, GitHub, Docker, CI/CD
 
 
 
