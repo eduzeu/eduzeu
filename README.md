@@ -3,7 +3,7 @@
 ## Welcome to my GitHub :)
 </div>
 
-### My name is Eduardo Hernandez and I am a senior at Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with temas to achieving success. During my college journey I have worked as a Software Engineer, Research Assistant, and Teaching Assistant. 
+### My name is Eduardo Hernandez and I am CS 25' grad from Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with temas to achieving success. During my journey I have worked as a Software Engineer, Research Assistant, professional Tutor and Teaching Assistant. 
 
 <div align="center">
 
