@@ -31,23 +31,22 @@
 <div align="center">
 
 </div>
-
 ## 🧠 Skills Snapshot
 
-**Frontend**
-- React, Next.js, TypeScript, JavaScript, HTML, CSS, styled-components
+🎨 **Frontend**
+- ⚛️ React, ▲ Next.js, 🟦 TypeScript, 🟨 JavaScript, 🌐 HTML, 🎨 CSS
 
-**Backend**
-- Node.js, Express.js, FastAPI, Django, Flask, REST APIs, GraphQL
+⚙️ **Backend**
+- 🟢 Node.js, 🚂 Express.js, ⚡ FastAPI, 🔌 REST APIs
 
-**Databases**
-- PostgreSQL, MongoDB, Redis, SQL
+🗄️ **Databases**
+- 🐘 PostgreSQL, 🍃 MongoDB, ⚡ Redis
 
-**Data / ML**
-- Python, pandas, NumPy, scikit-learn, R, data analysis, machine learning pipelines
+📊 **Data / ML**
+- 🐍 Python, 🧮 pandas, 🔢 NumPy, 🤖 scikit-learn, 📈 R
 
-**DevOps / Tools**
-- AWS (EC2, S3), Linux, Git, GitHub, Docker, CI/CD
+☁️ **DevOps / Tools**
+- ☁️ AWS (EC2, S3), 🐧 Linux, 🌱 Git, 🐙 GitHub, 🐳 Docker, 🔁 CI/CD
 
 
 
