@@ -31,7 +31,7 @@
 <div align="center">
 
 </div>
-## 🧠 Skills Snapshot
+## Skills Snapshot
 
 🎨 **Frontend**
 - ⚛️ React, ▲ Next.js, 🟦 TypeScript, 🟨 JavaScript, 🌐 HTML, 🎨 CSS
