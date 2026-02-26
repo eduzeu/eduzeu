@@ -46,14 +46,11 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <div align="center">
 
 ## 📊 GitHub Stats
 </div>
 
-<div align="center">
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduzeu&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=newspaperAnalysis,Data-Analytics-ML)
-
-</div>
