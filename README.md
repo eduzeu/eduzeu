@@ -3,7 +3,7 @@
 ## Welcome to my GitHub :)
 </div>
 
-### My name is Eduardo Hernandez and I am CS 25' grad from Stevens Institute of Technology. I have experience in software development, data science and machine learning. I like solving complex problems and working with teams to achieving success. During my journey I have worked as a Software Engineer, Research Assistant, professional Tutor and Teaching Assistant. 
+### My name is Eduardo Hernandez and I am CS 25' grad from Stevens Institute of Technology. Currently, I am completing my Masters in Computer Science at NYU. I have experience in software development, data science and machine learning. I like solving complex problems and working with teams to achieving success. During my journey I have worked as a Software Engineer, Research Assistant, professional Tutor and Teaching Assistant. 
 
 <div align="center">
 
