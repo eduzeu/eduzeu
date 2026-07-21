@@ -17,10 +17,6 @@ Building scalable software, AI-powered applications, and backend systems.
 - 🎓 M.S. Computer Science @ **New York University**
 - 🎓 B.S. Computer Science @ **Stevens Institute of Technology**
 - 💻 Software Engineer passionate about backend systems, AI, and full-stack development
-- 🤖 Interested in AI applications, distributed systems, and cloud technologies
-- 🚀 Currently building Spring Boot APIs, AI products, and scalable web applications
-- 🌎 Always excited to collaborate on impactful projects
-
 ---
 
 # 💻 Tech Stack
