@@ -6,13 +6,7 @@
 
 Building scalable software, AI-powered applications, and backend systems.
 
-<p>
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-New%20York-blue?style=for-the-badge">
-</p>
+
 
 </div>
 
